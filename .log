@@ -1,0 +1,98 @@
+
+
+2022-11-12 12:42:09 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-commit
+
+
+2022-11-12 12:42:51 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-commit
+
+
+2022-11-12 12:45:27 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-commit
+
+
+2022-11-12 12:53:59 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-commit
+Iniciant fn_check_script_args: Param Commit to tag als arguments de l'script
+Cap argument passat amb l'script. Definint --ajut per defecte
+
+
+2022-11-12 12:56:51 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-commit
+Iniciant fn_check_script_args: Param Commit to tag als arguments de l'script
+L'argument Param Commit to tag és requerit però no detectat. Es demanarà.
+
+
+2022-11-12 12:58:41 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-commit
+Iniciant fn_check_script_args: Param Commit to tag als arguments de l'script
+S'ha seleccionat Param Commit to tag = last
+
+
+2022-11-12 12:58:58 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-commit
+Iniciant fn_check_script_args: Param Commit to tag als arguments de l'script
+S'ha seleccionat Param Commit to tag = last
+
+
+2022-11-12 13:11:33 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-commit
+Iniciant fn_check_script_args: Param Commit to tag als arguments de l'script
+S'ha seleccionat Param Commit to tag = list
+
+
+2022-11-12 13:21:30 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-remote-rm
+
+
+2022-11-12 13:22:00 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = tag-remote-rm
+
+
+2022-11-12 14:33:30 - 
+Iniciant fn_check_script_args: Opció Global Combinable als arguments de l'script
+Carregades les funcions de l'script berb-scripts-shared-funcs-021...
+Iniciant fn_check_script_args: Opció Global Única als arguments de l'script
+Iniciant fn_check_script_args: Opció Acció als arguments de l'script
+S'ha seleccionat Opció Acció = pull
